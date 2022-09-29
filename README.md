@@ -5,3 +5,4 @@ Pattern Coding
 4. Right Sided Triangle pattern
 5. Right Sided Triangle  in reverse pattern
 6. Hill Pattern
+7. Reverse Hill Pattern
