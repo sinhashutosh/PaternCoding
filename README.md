@@ -6,3 +6,4 @@ Pattern Coding
 5. Right Sided Triangle  in reverse pattern
 6. Hill Pattern
 7. Reverse Hill Pattern
+8. Diamond Pattern
