@@ -1,4 +1,5 @@
-Patern Coding
-1. Square Patern
-2. Increasing Triangle Patern
-3. Decreasing Triangle Patern
+Pattern Coding
+1. Square Pattern
+2. Increasing Triangle Pattern
+3. Decreasing Triangle Pattern
+4. Right Sided Triangle pattern
